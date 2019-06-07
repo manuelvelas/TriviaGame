@@ -1,0 +1,48 @@
+.body{
+    width: 800px;
+}
+.container{
+    width: 800px;
+    height: 100%;
+    margin-top: 50px;
+    position: relative;
+    /* align-content: center; */
+    background-color: antiquewhite;
+    border-left: 150px;
+
+}
+.row{
+    width: 100%;
+    height: auto;
+}
+#fotos img{
+    width: 350px;
+    height: 450px;
+    
+   
+}
+.first{
+   font-size: 56px;
+   font-weight: 200; 
+   padding: 30px;
+   
+}
+#questions{
+    font-size: 20px;
+    border-top: 5px;
+    top: 20px;
+}
+#answ{
+    border: 10px;
+
+}
+.list-group-item:last-child {
+    margin: 30px;
+
+}
+.btn-light {
+    margin: 20px;
+}
+#clock{
+    margin-left: 40px;
+}
